@@ -1,8 +1,8 @@
 {
   "name": "@pancakeswap-libs/pancake-swap-core",
-  "description": "🎛 Core contracts for the pancake protocol",
+  "description": "🎛 Core contracts for the demon protocol",
   "version": "0.1.0",
-  "homepage": "https://pancakeswap.finance",
+  "homepage": "https://demonswap.fi",
   "repository": {
     "type": "git",
     "url": "https://github.com/pancakeswap/pancake-swap-core.git"
